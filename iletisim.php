@@ -17,6 +17,9 @@ include('inc/nav.php');
                             <h2 class="section-heading mb-4">
                                 <span class="section-heading-upper">İLETİŞİM</span>
                             </h2>
+                            <h2 class="section-heading mb-4">
+                                <span class="section-heading-upper">İLETİŞİM</span>
+                            </h2>
 
                             <form action="iletisim" method="POST">
 
